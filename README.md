@@ -1,8 +1,7 @@
-<!-- [![Banner](http://img.openbit.cc/liteRes.png)](https://github.com/Dr0ii/liteRes) -->
-![Alt text](assets/liteRes.svg)
+[![Banner](assets/liteRes.svg)](https://github.com/Dr0ii/liteRes)
 
-<p align="center">一个基于Vue3的轻量级资源站</p>
+<p align="center">一个简约的资源站</p>
 
 ## 
 ### 进度计划：
-项目暂时停止
+项目已重启，但于工作原因进度无限期延长
