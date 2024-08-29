@@ -1,7 +1,5 @@
 [![Logo](assets/liteRes.svg)](https://github.com/Dr0ii/liteRes)
 
-<p align="center">一个简约的资源站</p>
-
 ## 
 ### 进度计划：
 注：于工作原因进度无期限延长  
