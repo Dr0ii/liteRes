@@ -2,4 +2,4 @@
 
 ## 
 ### 进度计划：
-本项目已转移为 [iRes](https://github.com/Dr0ii/liteRes)
+本项目已转移，并更名为 [iRes](https://github.com/Dr0ii/iRes)
